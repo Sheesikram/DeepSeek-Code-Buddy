@@ -1,11 +1,3 @@
-# DeepSeek-Code-Buddy
- AI Pair Programmer with Debugging Superpowers | Built with Ollama &amp; LangChain
-(Due to technical issues, the search service is temporarily unavailable.)
-
-Here's a comprehensive GitHub repository structure for your DeepSeek Code Buddy project:
-
----
-
 # DeepSeek Code Buddy
 
 🧠 AI Pair Programmer with Debugging Superpowers | Built with Ollama & LangChain
@@ -130,5 +122,4 @@ This structure provides:
 - Contribution guidelines
 - Proper licensing and acknowledgments
 - Easy-to-follow configuration options
-
-Would you like me to create any specific files (like the actual Python code file or requirements.txt) in more detail?
+by Shees Ikram
