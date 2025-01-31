@@ -69,9 +69,10 @@ Here's a comprehensive GitHub repository structure for your DeepSeek Code Buddy 
   ```
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/c0ffcb17-5e10-4384-ac80-6320643dd406)
 
 ![App Interface](screenshots/interface-dark.png)
-*Dark Mode Interface with Coding Example*
+*With Coding Example*
 
 ## 🌟 Features Roadmap
 
